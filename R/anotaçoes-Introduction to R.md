@@ -1,4 +1,4 @@
-> As anotações foram baseadas nesse curso [aqui](https://www.udemy.com/aprenda-markdown/). do [Roberto Achar](https://twitter.com/RobertoAchar).
+
 
 * [ ] Criando títulos
 
@@ -607,3 +607,4 @@ Colocando **[ ]** com um espaço no meio, ficará assim:
         :heart:
 
 Mais emojis [aqui](https://www.webfx.com/tools/emoji-cheat-sheet/) :D
+> As anotações foram baseadas nesse curso [aqui](https://www.udemy.com/aprenda-markdown/). do [Roberto Achar](https://twitter.com/RobertoAchar) e adaptado da postagem da [Leticia](https://github.com/leticiadasilva/notas-de-aula)
