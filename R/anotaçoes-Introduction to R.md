@@ -1,12 +1,5 @@
 
-
-* [ ] Criando títulos
-
-Existem seis tamanhos de títulos. Quanto menor na proporção ele for, mais **#** são adicionadas;
-
-        # Título 1
-
-# Título 1
+# O que é R?
 
 ---
 
