@@ -1,57 +1,33 @@
 
 # O que é R?
 
----
 
-        ## Título 2
 
-## Título 2
 
----
-
-        ### Título 3
-
-### Título 3
+###  Em uma tradução literal e seguindo o próprio site do [R Project](https://www.r-project.org/about.html "R Project") o R é uma linguagem e ambiente para computação estatística e gráficos.
 
 ---
 
         #### Título 4
 
-#### Título 4
+#### Atribuição
 
 ---
 
-        ##### Título 5
+Sinal usado para atribuição em R <-
+x<-4
+Então x recebe o valor 4
 
-##### Título 5
-
----
-
-        ###### Título 6  
-
-###### Título 6  
+#### Vetores
 
 ---
 
-Para separá-los, você pode usar  " **=** " ou " **-** ".   
+ Em R, você cria um vetor com a função de combinação c (). Você coloca os elementos vetoriais separados por uma vírgula entre os parênteses. Por exemplo:
 
----
-
-
-* "Título 1
-========" 
-
-Título 1
-========  
+jogador<-(“Jonh”, “poker player”)
+propriedades(jogador)<-(“Nome”,”Profissao”)
 
 
-* "Título 2
---------" 
-
-Título 2
---------  
-
----
 
  * [ ] Parágrafos
 
